@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include <math.h>
+//herhangi bir sayi sistemini 10'luk tabana cevirme
 int main(){
 	
 	int say,sis,toplam=0,i,bas,x,o,k;
